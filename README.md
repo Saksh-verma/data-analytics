@@ -1,6 +1,7 @@
 📊 Data Analytics Mini Project
 🔍 Project Overview
-This project explores data analytics techniques using Python, Pandas, Matplotlib, and Seaborn. It includes data cleaning, transformation, visualization, and aggregation tasks on Netflix datasets and custom-generated data.
+This project explores data analytics techniques using Python, Pandas, Matplotlib, and Seaborn. 
+It includes data cleaning, transformation, visualization, and aggregation tasks on Netflix datasets and custom-generated data.
 
 🛠 Key Features
 ✅ Data Cleaning & Transformation
